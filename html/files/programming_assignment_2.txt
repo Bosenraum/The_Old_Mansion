@@ -1,0 +1,24 @@
+Programming Assignment #2
+
+Implement Stop-and-Wait Protocol with ACK, NACK
+
+Implement Reliable Data Transmission protocols RDT 2.1 and RDT 3.0
+
+Some starting code given. client.py, server.py, rdt.py and network.py
+
+client sends message, server sends back pig latin version of message
+
+extend rdt.py to tolerate packet corruption and loss
+
+BONUS 1: (One bonus point)
+Reorder packets if necessary
+
+BONUS 2: (One bonus point)
+RDT 4.0, pipelined approach
+
+Deliverables:
+[2] partners.txt
+[10] rdt.py for RDT 2.1
+[13] rdt.py for RDT 3.0
+
+Play with probabilities for testing.
