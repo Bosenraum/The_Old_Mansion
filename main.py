@@ -2,7 +2,7 @@
 # Title    -- The Old Mansion
 # Author   -- Austin Rosenbaum
 # Started  -- July 5, 2018
-# Modified -- July 5, 2018
+# Modified -- July 29, 2019
 # Finished -- ??/??/????
 ################################
 
@@ -11,7 +11,8 @@
 import time, random
 
 # Custom imports
-from entity import Entity
+from entity.entity import Entity
+from map.map import GameMap
 
 # Create map
 
