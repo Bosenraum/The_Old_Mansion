@@ -1,4 +1,4 @@
-
+from map.spot import Spot
 
 class GameMap:
 
